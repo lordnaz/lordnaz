@@ -31,7 +31,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 🌱 I’m having part time business for System Development.
 - 🤔 I have working on both frontend and backend development.
 - 💬 I like to build! See my portfolio at [NFY-LEGACY](https://nfylegacy.biz.my/)
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 📫 Email me at [nazrul.workspace@gmail.com](mailto:nazrul.workspace@gmail.com).
 
 
 
