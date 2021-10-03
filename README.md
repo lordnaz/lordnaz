@@ -60,10 +60,9 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordnaz&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=My%20Activity" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordnaz&count_private=true&theme=tokyonight&layout=compact" alt="Jas-Script" />
 
 
 ----
 Credit: [Jas-Script](https://github.com/Jas-Script)
 
-Last Edited on: 31/05/2021
+Last Edited on: 3/10/2021
