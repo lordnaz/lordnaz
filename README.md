@@ -58,46 +58,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Vue.js                   5 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.89% 
-TypeScript               2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
-YAML                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
-JSON                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.07% 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.6%
-
-🔥 Editors: 
-VS Code                  11 hrs 42 mins      ████████████████████████░   95.64% 
-Sublime Text             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.36%
-
-💻 Operating System: 
-Linux                    12 hrs 14 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               35 repos            ███████████░░░░░░░░░░░░░░   43.75% 
-HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
-PHP                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
-CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-
- Last Updated on 20/10/2021
-<!--END_SECTION:waka-->
-
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordnaz&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=My%20Activity" alt="Jas-Script" />
 
