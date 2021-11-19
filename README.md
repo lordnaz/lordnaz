@@ -27,9 +27,9 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m a Software Engineer at KALSYM.
+- 👨🏽‍💻 I’m a Application Support at MDEC.
 - 🌱 I’m having part time business for System Development.
-- 🤔 I have working on both frontend and backend development.
+- 🤔 I am Fullstack Dev, I'm comfortable working on both frontend and backend development.
 - 💬 I like to build! See my portfolio at [NFY-LEGACY](https://nfylegacy.biz.my/)
 - 📫 Email me at [nazrul.workspace@gmail.com](mailto:nazrul.workspace@gmail.com).
 
