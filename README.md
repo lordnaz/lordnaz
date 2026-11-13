@@ -1,4 +1,4 @@
-# Hey 👋, I'm Nazrul Hanif!
+# Hey 👋, I'm Nazrul!
 
 ### Solution Lead | Full-Stack Developer | AI Builder
 
