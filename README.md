@@ -116,11 +116,15 @@ Building modern web applications with a focus on performance, usability, maintai
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shieldsbadge/Facebook-Nazrul_Hanif-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/nazrul.hanif.5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nazrul_Hanif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazrul-hanif/)
 
-📧 **Email:** [nazrul.workspace@gmail.com](mailto:nazrul.workspace@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-naz__anip-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naz_anip/)
 
-🌐 **Portfolio:** [NFY-LEGACY](https://nfylegacy.biz.my/)
+[![Facebook](https://img.shields.io/badge/Facebook-Nazrul_Hanif-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nazrul.hanif.5/)
+
+📧 **Email:** [naz.anip92@gmail.com](mailto:naz.anip92@gmail.com)
+
+
 
 ---
 
