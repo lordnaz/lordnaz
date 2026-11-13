@@ -10,9 +10,6 @@
 <a href="https://www.facebook.com/nazrul.hanif.5/">
   <img align="left" alt="Nazrul's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://twitter.com/nazlamp">
-  <img align="left" alt="Nazrul's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
 
 
 
